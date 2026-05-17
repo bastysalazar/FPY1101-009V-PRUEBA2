@@ -3,7 +3,7 @@ while flag_cliente == True:
     try:
         edad = int(input("Ingrese su edad: "))
         if edad <= 0:
-            print("Le dad tiene que se mayor a 0.")
+            print("La edad tiene que ser mayor a 0.")
         else:
             flag_cliente = False
     except:
@@ -50,4 +50,4 @@ total = valor_final_medicamento + valor_final_despacho
 
 print(f"El valor del medicamento es: ${valor_final_medicamento}")
 print(f"El valor de su despacho es: ${valor_final_despacho}")
-print(f"El valor total del medicamnto y el despacho es: {total}")
+print(f"El valor total del medicamento y el despacho es: {total}")
