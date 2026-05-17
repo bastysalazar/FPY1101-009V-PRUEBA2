@@ -1,3 +1,3 @@
-print("hola rodrigo wekito")
-input("rodrigo eres tu realmente wekito? ")
+print("hola rodrigo ")
+input("rodrigo eres tu realmente lolero? ")
 print("como eso")
